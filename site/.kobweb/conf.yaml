@@ -13,7 +13,7 @@ server:
 
   cors:
     hosts:
-      - name: "kobweb-todo.onrender.com"
+      - name: "zorantest.onrender.com"
         schemes:
           - "https"
 
